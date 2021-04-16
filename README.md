@@ -35,8 +35,8 @@ environment: win10  Python 3.9
 This is a simple gobang game based on python.  
 There are 2 mode: auto or human controled.
 
-![Begin](https://github.com/BIOSmode/countdownTimer/blob/master/Pic/Be.png)
-![End](https://github.com/BIOSmode/countdownTimer/blob/master/Pic/Re.png)
+![Begin](https://github.com/BIOSmode/Gobang/tree/main/Pic/Be.png)
+![End](https://github.com/BIOSmode/Gobang/tree/main/Pic/Re.png)
 
 
 
@@ -67,15 +67,15 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- LICENSE -->
 ## License
-Distributed under the Mozilla Public License 2.0. See `LICENSE` for more information.
+Distributed under the MIT. See `LICENSE` for more information.
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - sunguiyu96@gmail.com
-
+Name - sunguiyu96@gmail.com  
+Homepage - [http://github.com/BIOSmode/Gobang](http://github.com/BIOSmode/Gobang) 
 Project Link: [https://github.com/BIOSmode/Gobang](https://github.com/BIOSmode/Gobang)
 
 
