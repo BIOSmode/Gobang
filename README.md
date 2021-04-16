@@ -75,7 +75,7 @@ Distributed under the MIT. See `LICENSE` for more information.
 ## Contact
 
 Name - sunguiyu96@gmail.com  
-Homepage - [http://github.com/BIOSmode/Gobang](http://github.com/BIOSmode/Gobang)   
+Homepage - [http:/sunguiyu.top](http://sunguiyu.top)   
 Project Link: [https://github.com/BIOSmode/Gobang](https://github.com/BIOSmode/Gobang)
 
 
